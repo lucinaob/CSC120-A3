@@ -1,7 +1,5 @@
-Use this file to record your reflection on this assignment.
+I took a similar approach to this assignment as I did A2. Over the weekend, I worked alone, pushing my knowledge of Java until I had the bare bones of the assignment laid out. While this wasn't running, it was a clear outline of what I wanted to get done and what I had left to accomplish. Then, on Monday, I met with a classmate (Ash) to work out the kinks of our code. This allowed us to get a new set of eyes on our code and talk out any issues we were running into. By the end of the day, I was able to get a working Chat Bot and only had issues with the transcript. The next day, I went to tutoring hours and worked with Zihan to fix the transcript issue. While Zihan wasn't able to figure out why my bot's output wasn't adding to the transcript, they were able to fix the way my transcript printed so that it looked cleaner. While at TA hours, I was able to fix the transcript issue by playing around with my code. 
 
-- Which classmates did you consult with while working on this assignment?
-- Which session(s) of TA / office hours did you attend?
-- What are your initial impressions of Java? 
-- Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+This process/workflow continued to work well for me, and I would recommend it to my peers.
+
+My initial impressions of Java are that it's much less effective and straightforward than I'm used to with R and Python. With these languages, I feel like there are relatively few quirks thanks to the adaptivity of the languages. However, the formatting and writing specificity of Java was hard for me to get used to. I felt like by the end of the assignment, I was only stratching the surface of how Java works. However, I did like how — compared to Python — there's a bit more flexibility in where certain things can be established/mentioned due to the compiling capabilities of Java. I think this experience taught me a lot about how coding is mostly about adapting our ideas and thought processes to the quirks and requirements of whatever language we're coding in.
